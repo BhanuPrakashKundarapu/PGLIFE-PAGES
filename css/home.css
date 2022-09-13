@@ -7,10 +7,14 @@ body{
 
 /* main-sec */
 .main-sec{
-    background-image: url('/project/img/bg.png');
+    background-image: url('/img/bg.png');
     background-attachment: fixed;
     background-size: 1720px 600px;
     height: 620px;
+}
+marquee{
+    font-size: 10px;
+    color: antiquewhite;
 }
 .content-1{
     background-color: rgb(12, 12, 12,0.4);
